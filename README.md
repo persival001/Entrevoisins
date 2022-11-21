@@ -59,9 +59,30 @@ Within each Android app module, files are shown in the following groups:
 3 - res: Contains all non-code resources, such as XML layouts, UI strings, and bitmap images, divided into corresponding sub-directories. For more information about all possible resource types, see Providing Resources.
 4 - Gradle Scripts: Two types of Gradle file are used in android projects One type is Project level Gradle which contains application repositories, dependencies, and project-level variables, Second type are modules level Gradle which contain app version name, version code, min version, application ID, dependencies for this module, debug and release build types, build flavors, etc
 
+## New features :
+
+- Ability to see a person's details on a full screen.
+- Ability to add a person to a favorites list.
+- Ability to directly manage the deletion of a person from this list by clicking on the star.
+It is also possible to remove a person from the favorites by clicking directly on the star in the neighbour's detail screen.
+
+## How to use the application ?
+
+- At the opening of the application you have a list of neighbors that you can select individually by clicking directly on the item concerned to see the details of this person.
+- On the detail screen, it is possible to add or remove a neighbor from the list of favorites.
+- On the main screen, the button located at the bottom right of the screen is used to add a person manually to your list of neighbors, by default, it is not added to the list of favorites.
+- The tab bar allows you to switch between the list of all neighbors and that of neighbors put in favorites by the user.
+- It is possible to remove a neighbor from the main list by clicking on the trash can icon, or by clicking on the star icon in the list of favorite neighbors.
+
 ## Screenshots
+
+Main screen
 ![Screenshot_20221117_161204](https://user-images.githubusercontent.com/89270238/202485562-b99e8b10-0202-4c8c-aea7-ff644de78b38.png)
+
+Detail screen
 ![Screenshot_20221117_161218](https://user-images.githubusercontent.com/89270238/202485612-111eb23e-091c-4040-b258-4955e6ecdd50.png)
+
+Favorite screen
 ![Screenshot_20221117_161251](https://user-images.githubusercontent.com/89270238/202485623-9842696e-5fce-4f0d-a6e5-df2a7663ecaf.png)
 
 
