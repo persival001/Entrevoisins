@@ -1,7 +1,7 @@
 
-# Entrevoisin
+# Entrevoisins
 
-"Entrevoisin" is an application to list neighbors, view their profile and add them to a list of favorites
+"Entrevoisins" is an application to list neighbors, view their profile and add them to a list of favorites
 
 
 
