@@ -7,6 +7,10 @@
 
 ## Deployment
 
+compileSdkVersion 33
+minSdkVersion 27
+targetSdkVersion 33
+
 To import a project in Android Studio, you should open Android Studio Project: Click on "Open an existing Android Studio project" to open the Android Studio Project.
 
  
