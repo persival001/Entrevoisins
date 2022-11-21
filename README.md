@@ -77,10 +77,10 @@ It is also possible to remove a person from the favorites by clicking directly o
 ## Screenshots
 
 Main screen
-![Screenshot_20221117_161204](https://user-images.githubusercontent.com/89270238/202485562-b99e8b10-0202-4c8c-aea7-ff644de78b38.png)
+![Screenshot_20221117_161218](https://user-images.githubusercontent.com/89270238/202485612-111eb23e-091c-4040-b258-4955e6ecdd50.png)
 
 Detail screen
-![Screenshot_20221117_161218](https://user-images.githubusercontent.com/89270238/202485612-111eb23e-091c-4040-b258-4955e6ecdd50.png)
+![Screenshot_20221117_161204](https://user-images.githubusercontent.com/89270238/202485562-b99e8b10-0202-4c8c-aea7-ff644de78b38.png)
 
 Favorite screen
 ![Screenshot_20221117_161251](https://user-images.githubusercontent.com/89270238/202485623-9842696e-5fce-4f0d-a6e5-df2a7663ecaf.png)
